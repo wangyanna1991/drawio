@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="UQf5h4xyoqb4fVclXW1c">
+    <mxGraphModel dx="1654" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 28px; color: #002D5E;&quot;&gt;认知智能基础理论：从“规则执行计算”向“未知策略创生”的跨越&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px; color: #666666;&quot;&gt;核心目标：实现 L3 (规则内寻优) 到 L4 (规则外创生) 的军事能力跃迁&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="800" x="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vision" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004080;strokeColor=#002D5E;strokeWidth=3;shadow=1;arcSize=10;glass=1;" value="&lt;b style=&quot;font-size: 20px; color: #ffffff;&quot;&gt;认知智能革命 (L4 Vision)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color: #E2E8F0; font-size: 14px;&quot;&gt;突破“数据驱动+奖励拟合”范式，构建“不可预测且绝对理性”的任务生成架构&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="500" x="350" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="q1_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdf4ff;strokeColor=#a21caf;strokeWidth=2;shadow=1;" value="" vertex="1">
+          <mxGeometry height="420" width="340" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q1_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a21caf;strokeColor=none;arcSize=0;" value="&lt;b style=&quot;font-size:16px; color:#ffffff;&quot;&gt;科学问题一：意图识别&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q1_content" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size:15px; color:#701a75;&quot;&gt;强对抗极不完备信息下的&lt;br&gt;反常识意图涌现与因果重构机制&lt;/b&gt;&lt;hr style=&quot;border-color:#f0abfc;&quot;&gt;&lt;div style=&quot;text-align: left; font-size:13px; color:#4a044e; line-height:1.6; padding: 0 10px;&quot;&gt;&lt;b&gt;• 核心挑战：&lt;/b&gt;如何应对敌方战术欺骗与“零样本”创新战法？&lt;br&gt;&lt;br&gt;&lt;b&gt;• 理论突破：&lt;/b&gt;研究&lt;b&gt;机器心智理论 (Theory of Mind)&lt;/b&gt;，建立无需先验标记的因果发现算法。&lt;br&gt;&lt;br&gt;&lt;b&gt;• 研究范式：&lt;/b&gt;从统计相关性走向“意图涌现动力学”，实现认知层面的敌情重构。&lt;br&gt;&lt;br&gt;&lt;b style=&quot;color:#a21caf;&quot;&gt;[关键词] 机器心智、因果重构、反常识意图涌现、极不完备信息&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="340" x="60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="q2_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#d97706;strokeWidth=2;shadow=1;" value="" vertex="1">
+          <mxGeometry height="420" width="340" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q2_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d97706;strokeColor=none;arcSize=0;" value="&lt;b style=&quot;font-size:16px; color:#ffffff;&quot;&gt;科学问题二：资源分配&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q2_content" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size:15px; color:#92400e;&quot;&gt;开放博弈空间中的&lt;br&gt;高维非稳态均衡跃迁与创新寻优理论&lt;/b&gt;&lt;hr style=&quot;border-color:#fde68a;&quot;&gt;&lt;div style=&quot;text-align: left; font-size:13px; color:#78350f; line-height:1.6; padding: 0 10px;&quot;&gt;&lt;b&gt;• 核心挑战：&lt;/b&gt;如何在无明确奖励函数的“开放式环境”中寻找新解？&lt;br&gt;&lt;br&gt;&lt;b&gt;• 理论突破：&lt;/b&gt;探索多域资源网络拓扑演化，建立&lt;b&gt;动态非稳态博弈&lt;/b&gt;理论（超越纳什均衡）。&lt;br&gt;&lt;br&gt;&lt;b&gt;• 研究范式：&lt;/b&gt;揭示超高维策略空间中自发产生“创新型资源耦合范式”的数学机理。&lt;br&gt;&lt;br&gt;&lt;b style=&quot;color:#d97706;&quot;&gt;[关键词] 开放式环境、非稳态博弈、拓扑演化、高维解空间跃迁&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="340" x="430" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="q3_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#16a34a;strokeWidth=2;shadow=1;" value="" vertex="1">
+          <mxGeometry height="420" width="340" x="800" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q3_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16a34a;strokeColor=none;arcSize=0;" value="&lt;b style=&quot;font-size:16px; color:#ffffff;&quot;&gt;科学问题三：任务规划&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="800" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q3_content" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size:15px; color:#166534;&quot;&gt;从“规则服从”到“规则创生”的&lt;br&gt;机器自我进化与元学习机制&lt;/b&gt;&lt;hr style=&quot;border-color:#bbf7d0;&quot;&gt;&lt;div style=&quot;text-align: left; font-size:13px; color:#064e3b; line-height:1.6; padding: 0 10px;&quot;&gt;&lt;b&gt;• 核心挑战：&lt;/b&gt;如何突破分布外(OOD)泛化瓶颈，让系统自主改变规则？&lt;br&gt;&lt;br&gt;&lt;b&gt;• 理论突破：&lt;/b&gt;构建基于&lt;b&gt;内生驱动 (Intrinsic Motivation)&lt;/b&gt; 与自我对抗刷新的元学习模型。&lt;br&gt;&lt;br&gt;&lt;b&gt;• 研究范式：&lt;/b&gt;揭示战法逻辑自主生成的认知计算原理，实现机器的自我迭代进化。&lt;br&gt;&lt;br&gt;&lt;b style=&quot;color:#16a34a;&quot;&gt;[关键词] 规则创生、分布外泛化、内生驱动、机器自我进化&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="340" x="800" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="base_support" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#334155;strokeColor=none;fontColor=#ffffff;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;基础学科交叉支撑：数学建模 | 控制理论 | 演化博弈 | 认知心理学 | 强化学习&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="1080" x="60" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" edge="1" parent="1" source="q1_box" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=3;strokeColor=#94a3b8;endArrow=block;" target="vision">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="230" />
+              <mxPoint x="450" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge2" edge="1" parent="1" source="q2_box" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=3;strokeColor=#94a3b8;endArrow=block;" target="vision">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" edge="1" parent="1" source="q3_box" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=3;strokeColor=#94a3b8;endArrow=block;" target="vision">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="230" />
+              <mxPoint x="750" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
