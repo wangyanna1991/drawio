@@ -4,16 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b style=&quot;font-size: 20px; font-family: &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; color: rgb(26, 54, 93); letter-spacing: 2px;&quot;&gt;研究内容&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="600" x="113" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#E65100;strokeWidth=1.5;dashed=1;dashPattern=8 4;verticalAlign=top;align=center;spacingTop=10;fontFamily=Microsoft YaHei;opacity=80;" value="&lt;b style=&quot;font-size:13px; color:#A63A00;&quot;&gt;核心推演与评估链路&lt;/b&gt;" vertex="1">
           <mxGeometry height="420" width="450" x="210" y="80" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F0FA;strokeColor=#00529B;verticalAlign=middle;strokeWidth=2.5;shadow=1;fontFamily=Microsoft YaHei;" value="&lt;b style=&quot;font-size: 15px; color: rgb(0, 51, 102);&quot;&gt;研究内容一&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; color: rgb(26, 54, 93); line-height: 1.8;&quot;&gt;&lt;br&gt;基于弱隐征候&lt;br&gt;发现的智能预测预警&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#00529B&quot; style=&quot;font-size: 12px;&quot;&gt;〔单位A · 感知层〕&lt;/font&gt;" vertex="1">
           <mxGeometry height="390" width="110" x="10" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;verticalAlign=middle;strokeWidth=2.5;shadow=1;fontFamily=Microsoft YaHei;" value="&lt;b style=&quot;font-size: 15px; color: rgb(27, 77, 30);&quot;&gt;研究内容二&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; color: rgb(34, 84, 61); line-height: 1.8;&quot;&gt;&lt;br&gt;基于&lt;br&gt;因果链推演的预测预警技术&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#2E7D32&quot; style=&quot;font-size: 12px;&quot;&gt;〔单位B · 知识层〕&lt;/font&gt;" vertex="1">
+        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;verticalAlign=middle;strokeWidth=2.5;shadow=1;fontFamily=Microsoft YaHei;" value="&lt;b style=&quot;font-size: 15px; color: rgb(27, 77, 30);&quot;&gt;研究内容二&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; color: rgb(34, 84, 61); line-height: 1.8;&quot;&gt;&lt;br&gt;基于因果链推演的预测预警技术&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#2E7D32&quot; style=&quot;font-size: 12px;&quot;&gt;〔单位B · 知识层〕&lt;/font&gt;" vertex="1">
           <mxGeometry height="390" width="120" x="700" y="90" as="geometry" />
         </mxCell>
         <mxCell id="4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#E65100;verticalAlign=middle;strokeWidth=2.5;shadow=1;fontFamily=Microsoft YaHei;" value="&lt;b style=&quot;font-size:14px; color:#802B00;&quot;&gt;研究内容三&lt;/b&gt;&lt;span style=&quot;font-size:13px; color:#A63A00;&quot;&gt;：多智能体自博弈演化路径发散生成&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#E65100&quot; style=&quot;font-size:11px;&quot;&gt;〔主体团队 · 推理层〕&lt;/font&gt;" vertex="1">
@@ -69,17 +66,6 @@
               <mxPoint x="605" y="465" />
               <mxPoint x="605" y="165" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hXjeXyUm26Svzjy9FcUc-106" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6A1B9A;strokeWidth=2;dashed=1;dashPattern=3 3;labelBackgroundColor=#ffffff;fontColor=#3E105C;fontFamily=Microsoft YaHei;startSize=0;endSize=3;" value="">
-          <mxGeometry relative="1" x="-0.05" y="-5" as="geometry">
-            <mxPoint x="5" y="5" as="offset" />
-            <Array as="points">
-              <mxPoint x="660" y="750.0699999999999" />
-              <mxPoint x="480" y="750.0699999999999" />
-            </Array>
-            <mxPoint x="720" y="750.0699999999999" as="sourcePoint" />
-            <mxPoint x="450" y="750.0699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hXjeXyUm26Svzjy9FcUc-107" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=2;strokeColor=light-dark(#4b2460, #ededed);" value="">
