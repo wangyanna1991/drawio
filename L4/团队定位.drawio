@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="aGKUiLUNnUlr-BXaOWeg">
+    <mxGraphModel dx="1406" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="left_axis_bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0072C6;strokeColor=none;gradientColor=#00529B;" value="" vertex="1">
+          <mxGeometry height="400" width="30" x="70" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="left_axis_text1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #FFFFFF;&quot;&gt;应&lt;br&gt;用&lt;br&gt;层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="40" x="65" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="left_axis_text2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #FFFFFF;&quot;&gt;平&lt;br&gt;台&lt;br&gt;层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="40" x="65" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="left_axis_text3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;技&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;术&lt;br&gt;层&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="40" x="65" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="line_div1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#C1D4E6;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="285" as="sourcePoint" />
+            <mxPoint x="740" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="line_div2" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#C1D4E6;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="375" as="sourcePoint" />
+            <mxPoint x="740" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="layer3_content" parent="1" style="shape=rect;whiteSpace=wrap;html=1;fillColor=#F2F7FC;strokeColor=#0072C6;strokeWidth=2;shadow=0;" value="&lt;b style=&quot;font-size: 18px; color: #00529B;&quot;&gt;支撑两级战略筹划与战役指挥业务实战化应用需求&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="560" x="140" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="up_arrow1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#009FE3;strokeColor=none;width=8;endSize=4.33;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="305" as="sourcePoint" />
+            <mxPoint x="419.5" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="layer2_content" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0072C6;strokeColor=none;strokeWidth=0;shadow=1;gradientColor=#00529B;" value="&lt;b style=&quot;font-size: 18px; color: #FFFFFF;&quot;&gt;构建自主可控的态势分析与博弈决策一体化支撑平台&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="560" x="140" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ooda_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 14px; color: #5A7184;&quot;&gt;OODA 作战指挥主线流程：&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="200" x="140" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ooda_o1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E8EEF5;strokeColor=#CAD8E6;fontColor=#5A7184;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;O 观察&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Observe&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="140" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="ooda_o2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#009FE3;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=#0085C4;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;O 判断 (态势分析)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Orient&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="190" x="230" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ooda_d" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00529B;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=#003B73;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;D 决策 (博弈决策)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Decide&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="190" x="410" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ooda_a" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E8EEF5;strokeColor=#CAD8E6;fontColor=#5A7184;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;A 行动&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Act&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="590" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="tech_box1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F0F7FB;strokeColor=#009FE3;strokeWidth=2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="130" width="230" x="175" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="link1_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #0085C4;&quot;&gt;环节一：态势认知分析&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="175" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="t1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009FE3;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;对手意图理解&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="190" x="195" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="t2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009FE3;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;态势演化预测&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="190" x="195" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="tech_box2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEF4FA;strokeColor=#00529B;strokeWidth=2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="130" width="230" x="435" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="link2_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #00529B;&quot;&gt;环节二：智能博弈决策&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="435" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="t3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#00529B;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;决策方案生成&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="190" x="455" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="t4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#00529B;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;决策方案综合评估&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="190" x="455" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_o" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#009FE3;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="450" as="sourcePoint" />
+            <mxPoint x="290" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_d" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#00529B;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="550" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="base_bg" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0072C6;strokeColor=none;shadow=1;gradientColor=#004587;" value="" vertex="1">
+          <mxGeometry height="80" width="700" x="70" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="base_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;基&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;础&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="40" x="90" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="base_t1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(0, 82, 155);&quot;&gt;研究积累一：任务规划&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="150" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="base_t2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(0, 82, 155);&quot;&gt;研究积累二：博弈强化学习&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="470" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="up_arrow2" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#9AC0DF;strokeColor=none;width=12;endSize=5.33;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="630" as="sourcePoint" />
+            <mxPoint x="419.5" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
