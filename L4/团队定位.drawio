@@ -1,112 +1,161 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="aGKUiLUNnUlr-BXaOWeg">
-    <mxGraphModel dx="1406" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="left_axis_bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0072C6;strokeColor=none;gradientColor=#00529B;" value="" vertex="1">
-          <mxGeometry height="400" width="30" x="70" y="210" as="geometry" />
+        <mxCell id="bg_core" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4F7FC;strokeColor=#B0C4DE;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=2;" value="" vertex="1">
+          <mxGeometry height="460" width="600" x="140" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="left_axis_text1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #FFFFFF;&quot;&gt;应&lt;br&gt;用&lt;br&gt;层&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="40" x="65" y="225" as="geometry" />
+        <mxCell id="bg_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 16px; color: #4A658A;&quot;&gt;五大核心研究内容体系&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="155" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="left_axis_text2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #FFFFFF;&quot;&gt;平&lt;br&gt;台&lt;br&gt;层&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="40" x="65" y="305" as="geometry" />
+        <mxCell id="layer_label_top" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0F0;strokeColor=#F5B7B1;fontColor=#C0392B;strokeWidth=2;shadow=1;" value="&lt;b style=&#39;font-size:16px;letter-spacing:2px;&#39;&gt;顶&lt;br/&gt;层&lt;br/&gt;应&lt;br/&gt;用&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="60" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="left_axis_text3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;技&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;术&lt;br&gt;层&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="40" x="65" y="450" as="geometry" />
+        <mxCell id="layer_label_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8E1;strokeColor=#FAD7A1;fontColor=#D35400;strokeWidth=2;shadow=1;" value="&lt;b style=&#39;font-size:16px;letter-spacing:2px;&#39;&gt;系&lt;br/&gt;统&lt;br/&gt;集&lt;br/&gt;成&lt;br/&gt;层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="60" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="line_div1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#C1D4E6;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="110" y="285" as="sourcePoint" />
-            <mxPoint x="740" y="285" as="targetPoint" />
+        <mxCell id="layer_label_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AED6F1;fontColor=#21618C;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px;letter-spacing:2px;&quot;&gt;关&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size:16px;letter-spacing:2px;&quot;&gt;键&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size:16px;letter-spacing:2px;&quot;&gt;技&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size:16px;letter-spacing:2px;&quot;&gt;术&lt;br&gt;层&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="60" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="layer_label_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F8F5;strokeColor=#A3E4D7;fontColor=#117A65;strokeWidth=2;shadow=1;" value="&lt;b style=&#39;font-size:16px;letter-spacing:2px;&#39;&gt;基&lt;br/&gt;础&lt;br/&gt;建&lt;br/&gt;模&lt;br/&gt;层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="60" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="layer_label_base" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAECEE;strokeColor=#ABB2B9;fontColor=#2C3E50;strokeWidth=2;shadow=1;" value="&lt;b style=&#39;font-size:16px;letter-spacing:2px;&#39;&gt;支&lt;br/&gt;撑&lt;br/&gt;基&lt;br/&gt;础&lt;/b&gt;" vertex="1">
+          <mxGeometry height="90" width="50" x="60" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="base_support" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E2F4D;gradientColor=#2A4365;fontColor=#FFFFFF;strokeColor=#0F172A;strokeWidth=2;shadow=1;glass=1;arcSize=5;" value="&lt;div style=&quot;font-size: 20px; font-weight: bold; margin-bottom: 8px; letter-spacing: 2px;&quot;&gt;底层支撑基础&lt;/div&gt;&lt;div style=&quot;font-size: 14px; font-weight: normal; letter-spacing: 1px;&quot;&gt;多源数据与知识底座&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;核心算法与计算引擎&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;平台工程与技术标准&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="600" x="140" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="comp_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1B4F72;gradientColor=#2874A6;fontColor=#FFFFFF;strokeColor=#154360;strokeWidth=2;shadow=1;glass=1;arcSize=8;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 18px; letter-spacing: 1px;&quot;&gt;① 动态本体构建&lt;/b&gt;&lt;br&gt;&lt;hr style=&quot;border: 1px solid rgb(127, 164, 214); width: 80%; margin: 6px auto;&quot;&gt;&lt;span style=&quot;font-size: 13px; font-weight: normal; color: rgb(226, 232, 240);&quot;&gt;&amp;nbsp;态势分析本体、&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(226, 232, 240), rgb(34, 39, 46)); font-size: 13px; background-color: transparent;&quot;&gt;决策生成本体、动态本体学习与演化、知识推理等&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="170" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="comp_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1B4F72;gradientColor=#2874A6;fontColor=#FFFFFF;strokeColor=#154360;strokeWidth=2;shadow=1;glass=1;arcSize=8;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 18px; letter-spacing: 1px;&quot;&gt;② 智能体进化试验床&lt;/b&gt;&lt;br&gt;&lt;hr style=&quot;border: 1px solid rgb(127, 164, 214); width: 80%; margin: 6px auto;&quot;&gt;&lt;font color=&quot;#e2e8f0&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;智能体建模、马鞍驾驭工程、进化框架、算法引擎等&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="450" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="comp_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21618C;gradientColor=#3498DB;fontColor=#FFFFFF;strokeColor=#1A5276;strokeWidth=2;shadow=1;glass=1;arcSize=8;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 18px; letter-spacing: 1px;&quot;&gt;③ 认知本体驱动的态势分析&lt;/b&gt;&lt;br&gt;&lt;hr style=&quot;border: 1px solid rgb(169, 204, 227); width: 80%; margin: 6px auto;&quot;&gt;&lt;span style=&quot;font-size: 13px; font-weight: normal; color: rgb(234, 236, 238);&quot;&gt;&lt;br&gt;因果关联与推理、不确定性与边界自知、可解释性态势生成&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="170" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="comp_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21618C;gradientColor=#3498DB;fontColor=#FFFFFF;strokeColor=#1A5276;strokeWidth=2;shadow=1;glass=1;arcSize=8;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 18px; letter-spacing: 1px;&quot;&gt;④ 博弈进化驱动的策略生成&lt;/b&gt;&lt;br&gt;&lt;hr style=&quot;border: 1px solid rgb(169, 204, 227); width: 80%; margin: 6px auto;&quot;&gt;&lt;font color=&quot;#eaecee&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;对手建模与策略空间构建、博弈进化优化、策略生成与创新评价&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="450" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="comp_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D35400;gradientColor=#F39C12;fontColor=#FFFFFF;strokeColor=#9C640C;strokeWidth=2;shadow=1;glass=1;arcSize=8;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 20px; letter-spacing: 1px;&quot;&gt;⑤ 闭环验证与迭代反馈&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;margin-top: 6px; font-size: 14px; font-weight: normal; color: rgb(254, 245, 231);&quot;&gt;策略验证、鲁棒筛选、闭环反馈机制&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="540" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="top_app" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#922B21;gradientColor=#C0392B;fontColor=#FFFFFF;strokeColor=#641E16;strokeWidth=3;shadow=1;glass=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 22px; letter-spacing: 4px;&quot;&gt;军事应用场景&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;margin-top: 6px; font-size: 14px; font-weight: normal; color: rgb(250, 219, 216);&quot;&gt;威胁预警 &amp;nbsp;✦&amp;nbsp; 兵力部署 &amp;nbsp;✦&amp;nbsp; 作战规划 &amp;nbsp;✦&amp;nbsp; 指挥决策支持&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="540" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_base_1" edge="1" parent="1" source="base_support" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#7F8C8D;endArrow=block;endFill=1;" target="comp_1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="750" />
+              <mxPoint x="300" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="line_div2" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#C1D4E6;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="110" y="375" as="sourcePoint" />
-            <mxPoint x="740" y="375" as="targetPoint" />
+        <mxCell id="label_support" connectable="0" parent="edge_base_1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#34495E;labelBackgroundColor=#FFFFFF;" value="&lt;b&gt;赋能支撑&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="1" as="geometry">
+            <mxPoint x="139" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="layer3_content" parent="1" style="shape=rect;whiteSpace=wrap;html=1;fillColor=#F2F7FC;strokeColor=#0072C6;strokeWidth=2;shadow=0;" value="&lt;b style=&quot;font-size: 18px; color: #00529B;&quot;&gt;支撑两级战略筹划与战役指挥业务实战化应用需求&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="560" x="140" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="up_arrow1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#009FE3;strokeColor=none;width=8;endSize=4.33;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="419.5" y="305" as="sourcePoint" />
-            <mxPoint x="419.5" y="275" as="targetPoint" />
+        <mxCell id="edge_base_2" edge="1" parent="1" source="base_support" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#7F8C8D;endArrow=block;endFill=1;" target="comp_2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="750" />
+              <mxPoint x="580" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="layer2_content" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0072C6;strokeColor=none;strokeWidth=0;shadow=1;gradientColor=#00529B;" value="&lt;b style=&quot;font-size: 18px; color: #FFFFFF;&quot;&gt;构建自主可控的态势分析与博弈决策一体化支撑平台&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="560" x="140" y="310" as="geometry" />
+        <mxCell id="edge_1_3" edge="1" parent="1" source="comp_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#2980B9;endArrow=block;endFill=1;" target="comp_3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ooda_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 14px; color: #5A7184;&quot;&gt;OODA 作战指挥主线流程：&lt;/b&gt;" vertex="1">
-          <mxGeometry height="20" width="200" x="140" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="ooda_o1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E8EEF5;strokeColor=#CAD8E6;fontColor=#5A7184;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;O 观察&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Observe&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="140" y="405" as="geometry" />
-        </mxCell>
-        <mxCell id="ooda_o2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#009FE3;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=#0085C4;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;O 判断 (态势分析)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Orient&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="190" x="230" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="ooda_d" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00529B;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=#003B73;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;D 决策 (博弈决策)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Decide&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="190" x="410" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="ooda_a" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E8EEF5;strokeColor=#CAD8E6;fontColor=#5A7184;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;A 行动&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Act&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="590" y="405" as="geometry" />
-        </mxCell>
-        <mxCell id="tech_box1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F0F7FB;strokeColor=#009FE3;strokeWidth=2;dashed=1;" value="" vertex="1">
-          <mxGeometry height="130" width="230" x="175" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="link1_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #0085C4;&quot;&gt;环节一：态势认知分析&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="175" y="475" as="geometry" />
-        </mxCell>
-        <mxCell id="t1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009FE3;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;对手意图理解&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="190" x="195" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="t2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009FE3;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;态势演化预测&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="190" x="195" y="555" as="geometry" />
-        </mxCell>
-        <mxCell id="tech_box2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEF4FA;strokeColor=#00529B;strokeWidth=2;dashed=1;" value="" vertex="1">
-          <mxGeometry height="130" width="230" x="435" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="link2_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 15px; color: #00529B;&quot;&gt;环节二：智能博弈决策&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="435" y="475" as="geometry" />
-        </mxCell>
-        <mxCell id="t3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#00529B;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;决策方案生成&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="190" x="455" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="t4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#00529B;fontColor=#1A2B3C;shadow=0;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;决策方案综合评估&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="190" x="455" y="555" as="geometry" />
-        </mxCell>
-        <mxCell id="arrow_o" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#009FE3;strokeWidth=3;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="290" y="450" as="sourcePoint" />
-            <mxPoint x="290" y="470" as="targetPoint" />
+        <mxCell id="label_1_3" connectable="0" parent="edge_1_3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#154360;labelBackgroundColor=#F4F7FC;" value="&lt;b&gt;本体注入&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="1" as="geometry">
+            <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow_d" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#00529B;strokeWidth=3;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="550" y="450" as="sourcePoint" />
-            <mxPoint x="550" y="470" as="targetPoint" />
+        <mxCell id="edge_2_4" edge="1" parent="1" source="comp_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#2980B9;endArrow=block;endFill=1;" target="comp_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label_2_4" connectable="0" parent="edge_2_4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#154360;labelBackgroundColor=#F4F7FC;" value="&lt;b&gt;演化驱动&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="1" as="geometry">
+            <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="base_bg" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0072C6;strokeColor=none;shadow=1;gradientColor=#004587;" value="" vertex="1">
-          <mxGeometry height="80" width="700" x="70" y="630" as="geometry" />
+        <mxCell id="edge_3_4_top" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#C0392B;endArrow=block;endFill=1;dashed=1;dashPattern=1 2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="base_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;基&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;础&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="40" x="90" y="635" as="geometry" />
+        <mxCell id="label_3_4_top" connectable="0" parent="edge_3_4_top" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontColor=#C0392B;fontSize=11;" value="态势输入" vertex="1">
+          <mxGeometry relative="1" x="0.1" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="base_t1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(0, 82, 155);&quot;&gt;研究积累一：任务规划&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="150" y="655" as="geometry" />
+        <mxCell id="edge_4_3_bottom" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#C0392B;endArrow=block;endFill=1;dashed=1;dashPattern=1 2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="530" as="sourcePoint" />
+            <mxPoint x="430" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="base_t2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(0, 82, 155);&quot;&gt;研究积累二：博弈强化学习&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="250" x="470" y="655" as="geometry" />
+        <mxCell id="label_4_3_bottom" connectable="0" parent="edge_4_3_bottom" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontColor=#C0392B;fontSize=11;" value="策略反馈" vertex="1">
+          <mxGeometry relative="1" x="0.1" y="2" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="up_arrow2" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#9AC0DF;strokeColor=none;width=12;endSize=5.33;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="419.5" y="630" as="sourcePoint" />
-            <mxPoint x="419.5" y="605" as="targetPoint" />
+        <mxCell id="edge_3_5" edge="1" parent="1" source="comp_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#D35400;endArrow=block;endFill=1;" target="comp_5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="430" />
+              <mxPoint x="300" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label_to_5" connectable="0" parent="edge_3_5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#9C640C;labelBackgroundColor=#F4F7FC;" value="&lt;b&gt;决策支撑&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="1" as="geometry">
+            <mxPoint x="139" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_4_5" edge="1" parent="1" source="comp_4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#D35400;endArrow=block;endFill=1;" target="comp_5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="430" />
+              <mxPoint x="580" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_5_top" edge="1" parent="1" source="comp_5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#C0392B;endArrow=block;endFill=1;" target="top_app">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label_5_top" connectable="0" parent="edge_5_top" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#922B21;labelBackgroundColor=#FFFFFF;" value="&lt;b style=&quot;font-size:14px;&quot;&gt;服务输出 / 价值赋能&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="2" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_global_feedback" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#27AE60;endArrow=block;endFill=1;dashed=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="365" />
+              <mxPoint x="780" y="650" />
+            </Array>
+            <mxPoint x="710" y="365" as="sourcePoint" />
+            <mxPoint x="740" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label_global_feedback" connectable="0" parent="edge_global_feedback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1E8449;labelBackgroundColor=#FFFFFF;shadow=1;strokeColor=#2ECC71;" value="&lt;b style=&quot;font-size:14px;&quot;&gt;全&lt;br/&gt;局&lt;br/&gt;演&lt;br/&gt;化&lt;br/&gt;与&lt;br/&gt;反&lt;br/&gt;馈&lt;br/&gt;闭&lt;br/&gt;环&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1" y="-2" as="geometry">
+            <mxPoint x="2" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_feedback_branch_1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#27AE60;endArrow=block;endFill=1;dashed=1;dashPattern=1 2;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="680" />
+            </Array>
+            <mxPoint x="780" y="680" as="sourcePoint" />
+            <mxPoint x="430" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
